@@ -1,5 +1,5 @@
 # Kodluyoruz İlkrepo"
-Kodluyoruz Eğitimi kapsamında açtığım ilk repodur, içerisinde readme.md, ve index.html dosyası mevcuttur.
+[Kodluyoruz](https://app.patika.dev) Eğitimi kapsamında açtığım ilk repodur, içerisinde readme.md, ve index.html dosyası mevcuttur.
 ![Görsel Örnek](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ## Installation
 ------------------------------------------------------------------------------------
